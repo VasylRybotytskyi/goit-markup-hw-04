@@ -393,10 +393,9 @@ border-radius: 0px 0px 4px 4px;
     height: 22px;
     display: flex;
     align-items: center;
-
-
-    
+  
 }
+
 .footer-icon {
     display: flex;
     justify-content: center;
@@ -412,6 +411,10 @@ border-radius: 0px 0px 4px 4px;
 .footer-icon:focus {
     background-color: var(--accent-text-color);
 }
+.background-footer {
+    background-color: var(--accent-text-color);
+}
+
 .foter-title {
     display: inline-block;
     font-family: inherit;
